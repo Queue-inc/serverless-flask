@@ -1,3 +1,7 @@
+# build files
 dist/
 build/
 serverless_flask.egg-info/
+
+# memo
+how_to_upload.md
