@@ -9,7 +9,7 @@ Package for Flask with Serverless Framework
 
 setup(
     name='serverless-flask',
-    version='0.0.1',
+    version='0.0.3',
     description='Package for Flask with Serverless Framework',
     long_description=long_description,
     url='https://github.com/Queue-inc/serverless-flask',
@@ -18,7 +18,7 @@ setup(
     license='MIT',
     keywords=['flask', 'restful', 'interceptor', 'AOP'],
     packages=[
-        "Interceptor",
+        "serverless_flask",
     ],
     install_requires=requires,
     classifiers=[

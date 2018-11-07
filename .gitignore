@@ -5,3 +5,6 @@ serverless_flask.egg-info/
 
 # memo
 how_to_upload.md
+
+# pycache
+*__pycache__
