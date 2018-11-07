@@ -50,3 +50,10 @@ def func2(req: request):
     return ['val1', 'val2'] 
 ```
 
+# Links
+
+Website: coming soon
+
+Code: https://github.com/Queue-inc/serverless-flask
+
+Company Page: http://www.queue-inc.com
